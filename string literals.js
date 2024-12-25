@@ -9,6 +9,6 @@
 //  string literals using function
     function show(name) { // formal argumate
         let greet = `Welcome ${name} to seeree`;
-        document.write(greet);
+        console.log(greet);
     }
     show('Balram'); // actucal argument
