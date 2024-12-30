@@ -1,5 +1,5 @@
 //   variabal
-  var a = 10;     // gobal-decalration //<- declaration
+  var a = 10;     // gobal-decalration  //<- declaration
   console.log(`${a}`);
   var a = 20;                   // re-declaration  -> yes
   console.log(`${a}`);
